@@ -1,0 +1,35 @@
+.shadow_outer{
+    width: 1150px;
+    padding: 2%;
+    height: 300px;
+    color: white;
+    border-radius: 15px;
+    margin: 50px auto;
+    padding: auto 0;
+}
+
+.shadow_inner{
+    width: 1000px;
+    height: 250px;
+    margin: 0 auto;
+    box-shadow: 0px 0px 15px 15px rgba(0,0,0,0.8);
+    position: relative;
+}
+
+.twentyper{
+text-align: center;
+background-color: #222;
+color: #fff;
+width: 250px;
+height: 250px;
+float: left;
+border: 1px solid #000;
+}
+
+.twentyper h3{
+    line-height: 250px;
+    vertical-align: middle;
+    color: green;
+    font-weight: 800;
+    text-shadow: 1px 1px 3px rgb(176, 211, 20);
+}
